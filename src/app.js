@@ -1,6 +1,6 @@
 
 const API_URL =
-    "https://raw.githubusercontent.com/MicroResearch-Corporation/S-V-Go/refs/heads/database/db.json";
+    "https://raw.githubusercontent.com/mainroute-core/S-V-Go/refs/heads/database/db.json";
 const SVG_BASE_PATH = "./src/svg/";
 const ICONS_PER_BATCH = 60;
 
